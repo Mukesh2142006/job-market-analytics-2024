@@ -1,0 +1,37 @@
+
+JOB MARKET ANALYTICS DASHBOARD
+KEY INSIGHTS AND RECOMMENDATIONS
+Generated from analysis of 12,217 job postings
+
+SKILL CLUSTERS (by job title mentions):
+- ML and AI       : 1,243 jobs
+- Other Tools     : 476 jobs  
+- Programming     : 375 jobs
+- Cloud Platforms : 337 jobs
+- Data Engineering: 105 jobs
+- Databases       : 66 jobs
+- BI Tools        : 48 jobs
+
+JOB CATEGORIES:
+- Other           : 3,001 jobs
+- ML and AI       : 2,506 jobs
+- Data Analytics  : 2,276 jobs
+- Data Engineering: 1,777 jobs
+- Management      : 1,384 jobs
+- Data Science    : 756 jobs
+- Data Architecture: 517 jobs
+
+TOP REAL EMPLOYERS:
+1. Agoda              - 172 jobs
+2. Capital One        - 92 jobs
+3. Amazon Web Services - 72 jobs
+4. Deloitte           - 67 jobs
+5. ACV Auctions       - 58 jobs
+
+KEY RECOMMENDATIONS:
+1. Learn SQL first — universal requirement
+2. Add Python and ML skills for more opportunities
+3. Target cloud certification (AWS recommended)
+4. Apply directly to employers not just agencies
+5. Consider Chicago/Austin as NYC alternatives
+6. Be prepared for onsite work — remote is rare
