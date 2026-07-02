@@ -98,6 +98,8 @@ opportunities, and what experience level is most commonly required.
 
 \## Project Structure
 
+
+
 job-market-analytics/
 
 ├── data/
@@ -180,5 +182,39 @@ job-market-analytics/
 
 
 
+\## How to Run This Project
 
+
+
+1\. Clone the repository
+
+2\. Install required libraries:
+
+3\. Open Jupyter Notebook and run notebooks in order:
+
+&#x20;  - 01\_data\_inspection
+
+&#x20;  - 02\_data\_cleaning
+
+&#x20;  - 03\_eda\_analysis
+
+&#x20;  - 04\_sql\_analysis
+
+4\. Open Power BI file from the powerbi/ folder
+
+
+
+\---
+
+
+
+\## Author
+
+
+
+Mukesh
+
+Aspiring Data Analyst
+
+GitHub: https://github.com/Mukesh2142006
 
